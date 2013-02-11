@@ -5,8 +5,8 @@ class CreateBidders < ActiveRecord::Migration
       t.string :profile
       t.string :payment
       t.string :shipping
-      t.char(1) :cim
-      t.char(1) :ready
+      t.string :cim
+      t.string :ready
       t.string :comment
 
       t.timestamps
