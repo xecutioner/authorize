@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  bit_id: 1
+  type: 
+  auto_renew: MyString
+  cost: 1.5
+  orig_cost: 1.5
+  promo_code: MyString
+  comment: MyString
+
+two:
+  bit_id: 1
+  type: 
+  auto_renew: MyString
+  cost: 1.5
+  orig_cost: 1.5
+  promo_code: MyString
+  comment: MyString
